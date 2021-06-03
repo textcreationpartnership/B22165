@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament shewing that all brewers of beere, ale, cider, or perry shall pay the excise imposed by a former ordinance of Parliament before the delivering upon paine of forfeiting double the value</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22165</idno><idno type="EEBO-CITATION">12076416</idno>
+  <idno type="VID">196907</idno>
+  <idno type="EEBO-PROQUEST">2240954384</idno>
+  
+            <idno type="STC">Wing E2081</idno>
+            <idno type="OCLC">12076416</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E71, no 19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament shewing that all brewers of beere, ale, cider, or perry shall pay the excise imposed by a former ordinance of Parliament before the delivering upon paine of forfeiting double the value</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 18, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Liquor laws --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196907:1"/>
+            <p> AN ORDINANCE OF THE LORDS and COMMONS ASSEMBLED IN PARLIAMENT.</p>
+            <p>SHEWING That all Brewers of Beere, Ale, Cider, or Perry, shall pay the Excise imposed by a former Ordinance of Parliament before the delivering, upon paine of forfeiting double thè value of the said Commodities.</p>
+            <p>ALSO An Ordinance of both Houses, giving power to the Committee sitting at Haberdash<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs-Hall, to take some speedy course for the bringing in of the Monies appoynted to be raysed for the maintainance of the Armie.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 17. Octob. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords in Parliament, that these two Ordinances bee forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London Printed for John Wright in the Old-bailey, October 18. 1643.</p>
+            <pb facs="tcp:196907:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="1" facs="tcp:196907:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis,</hi> 17 <hi>Octob.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or further explanati<g ref="char:EOLhyphen"/>on of the late Ordi<g ref="char:EOLhyphen"/>nance of both Houses of Parliament touch<g ref="char:EOLhyphen"/>ing the Excise or new Impost, upon the se<g ref="char:EOLhyphen"/>verall <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commodites therein mentioned: Be it Declared and Ordained, by the
+<pb n="2" facs="tcp:196907:3"/> Lords and Commons in Parliament, for the better enabling and encouraging of the Brewers and makers of Beere, Ale, Per<g ref="char:EOLhyphen"/>ry, and Cider, (who are the parties that are to pay the Excise, as by the said Or<g ref="char:EOLhyphen"/>dinance is appoynted) to make due pay<g ref="char:EOLhyphen"/>ment thereof accordingly, That no Beére, Ale, Perry or Cider, shall be delivered out by the Brewer or maker thereof, or any for them, to any Retailer or other buyer therof, till the rate and price which is by them to be payd, for and in respect of the Excise be payd by the Brewer or first seller thereof, on paine, that as well the Retailer or buyer, as the Brewer or first seller thereof, shall forfeit for the first offence double the value of every quantity of Beére, Ale, Perry or Cider, so delive<g ref="char:EOLhyphen"/>red out, or received by the party so offen<g ref="char:EOLhyphen"/>ding, and for the second offence treble the value thereof, and the party so offending, to be disabled from using their said Trades or Professions, respectively for the space of one whole yeare then next en<g ref="char:EOLhyphen"/>suing,
+<pb n="3" facs="tcp:196907:3"/> the said forfeitures to be levied and imployed in such manner and to such uses as by the said Ordinance is appoynted for the penalties therein mentioned; And beé it Declared and further Ordained, that the rates set upon every barrell of Beére and Ale by the said Ordinance, shall beé payd for every greater or lesser quantity, proportionably after the same rate; And be it also further Ordered and Ordained, that for all Beére of foure shillings the barrell or under the Excise, shall be payd after the rate of six pence for bar<g ref="char:EOLhyphen"/>rell, and so after that rate for a greater or lesser quantity, under the penalties and forfeitures in and by the said Ordinance appoynted, Provided alwayes, And be it Ordained, that no Retailers of any Beere, Ale, Perry or Cider, shall take any more in the price thereof upon the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the same Commodities, then according <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the usuall rates and prites appoynted by Law for the same (excepting onely the rate of the Excise) as they will answer
+<pb n="4" facs="tcp:196907:4"/> their contempts herein to both Houses of Parliament.</p>
+            <p>And as touching new Draperies, It is Declared and Ordained, that the Excise due and payable for the same, shall be payd by the Shop-keepers who buyes the same.</p>
+            <closer>
+               <signed>John Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="addendum">
+            <pb n="5" facs="tcp:196907:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae</hi> 16. <hi>Octob.</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there have diverse Ordinances passed, for the raising and bringing in Moneyes for supply and support of the great affaires of the Kingdome, which by the neglect and unwillingnesse of such who are intrusted with the raising, collecting, and bringing in of the said Moneyes, to use such meanes as by the said Ordinances are appointed to bring in the said Moneyes, great considerable summes of Moneyes, are yet in Arreare, and not brought in. It is this day Ordered by the Lords and Commons in Parliament Assembled, That the Committees of Lords and Commons for Ad<g ref="char:EOLhyphen"/>vance of Moneyes, shall have power to use all such meanes as they shall thinke fit, by distresse, or Im<g ref="char:EOLhyphen"/>prisonment, according to the said severall and res<g ref="char:EOLhyphen"/>pective Ordinances, to bring in the said Moneyes with all convenient speede.</p>
+            <closer>
+               <signed>John Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
